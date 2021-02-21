@@ -1,6 +1,6 @@
 # Animated Template 
-Build using the provided html-landing-page template by Creative Tim.
-https://www.creative-tim.com/learning-lab/tailwind-starter-kit/documentation/quick-start 
+Build using the provided html-landing-page template by Creative Tim.<br>
+https://www.creative-tim.com/learning-lab/tailwind-starter-kit/documentation/quick-start <br>
 
 ## Resource 
 Guide Tailwind starter kit<br>
