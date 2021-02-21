@@ -11,3 +11,18 @@ https://tailwindcss.com/docs<br>
 
 Web Formatter<br>
 https://webformatter.com/html<br>
+
+Unsplash<br>
+https://unsplash.com/<br>
+
+Random User Generator API<br>
+https://randomuser.me/<br>
+
+Animate on Scroll CSS Library<br>
+https://michalsnik.github.io/aos/<br>
+https://github.com/michalsnik/aos<br>
+
+Third party<br>
+https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript<br>
+
+
