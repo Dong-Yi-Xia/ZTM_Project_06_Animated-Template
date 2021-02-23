@@ -1,4 +1,6 @@
 # Animated Template 
+https://dong-yi-xia.github.io/ZTM_Project_06_Animated-Template/<br>
+
 Build using the provided html-landing-page template by Creative Tim.<br>
 https://www.creative-tim.com/learning-lab/tailwind-starter-kit/documentation/quick-start <br>
 
